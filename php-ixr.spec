@@ -1,5 +1,4 @@
 %define		php_min_version 5.0.0
-%include	/usr/lib/rpm/macros.php
 Summary:	The Incutio XML-RPC Library for PHP
 Name:		php-ixr
 Version:	1.7.4
